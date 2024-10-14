@@ -1,0 +1,12 @@
+**/node_modules
+**/package-lock.json
+.DS_Store
+server/.mvn/
+server/target/
+infra/cdk.out/
+infra/resources
+client/build
+client/public/config.json
+infra/coverage/
+infra/test-report.xml
+.vscode/
